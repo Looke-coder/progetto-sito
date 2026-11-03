@@ -49,5 +49,5 @@ table {
 
 th, td {
   padding: 15px 20px; 
-  
+  border-bottom: 1px solid #ccc;
 }
