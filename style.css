@@ -44,12 +44,12 @@ h2 {
   margin: auto; 
   width: 750px;
   max-width: 100%;
-
+}
 
 table {
   width: 100%;
   border-collapse: collapse;
-  font-family: 'Arial', sans-serif; /* La tabella sta meglio con un font pulito */
+  font-family: 'Arial', sans-serif; 
 }
 
 th, td {
